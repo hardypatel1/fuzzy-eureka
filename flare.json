@@ -35,7 +35,6 @@
    "name": "asian",
    "children": [
     {"name": "thai", "value": 17010},
-    {"name": "taco", "value": 17011},
     {"name": "FunctionSequence", "value": 5842},
     {
      "name": "chinese",
