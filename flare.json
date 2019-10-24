@@ -2,17 +2,17 @@
  "name": "flare",
  "children": [
   {
-   "name": "indian",
+   "name": "italian",
    "children": [
     {
-     "name": "cluster",
+     "name": "pizza",
      "children": [
-      {"name": "AgglomerativeCluster", "value": 3938},
-            {"name": "Agglomerativetest1", "value": 3938},
-            {"name": "AgglomerativeCluster", "value": 3999},
-      {"name": "CommunityStructure", "value": 3812},
-      {"name": "HierarchicalCluster", "value": 6714},
-      {"name": "MergeEdge", "value": 743}
+      {"name": "pizza hut", "value": 3938},
+      {"name": "dominos", "value": 3938},
+      {"name": "papa johns", "value": 3999},
+      {"name": "cici", "value": 3812},
+      {"name": "little ceasers", "value": 6714}
+      
      ]
     },
     {
@@ -37,10 +37,10 @@
    "name": "asian",
    "children": [
     {"name": "thai", "value": 17010},
-    {"name": "FunctionSequence", "value": 5842},
-    
-    
-    {"name": "Visualization", "value": 16540}
+    {"name": "indian", "value": 17011},
+    {"name": "japanese", "value": 17012},
+    {"name": "korean", "value": 17010},
+    {"name": "vietnamese", "value": 17010}
    ]
   }
  ]
