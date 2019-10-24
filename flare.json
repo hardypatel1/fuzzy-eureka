@@ -196,7 +196,7 @@
    ]
   },
   {
-   "name": "util",
+   "name": "mexican",
    "children": [
     {"name": "Arrays", "value": 8258},
     {"name": "Colors", "value": 10001},
@@ -241,7 +241,7 @@
    ]
   },
   {
-   "name": "vis",
+   "name": "italian",
    "children": [
     {
      "name": "axis",
