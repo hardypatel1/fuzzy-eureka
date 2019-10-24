@@ -2,7 +2,7 @@
  "name": "flare",
  "children": [
   {
-   "name": "indian",
+   "name": "anayltics",
    "children": [
     {
      "name": "cluster",
