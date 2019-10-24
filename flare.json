@@ -8,7 +8,7 @@
      "name": "cluster",
      "children": [
       {"name": "AgglomerativeCluste", "value": 3938},
-      {"name": "AgglomerativeCluster1", "value": 3928}
+     // {"name": "AgglomerativeCluster1", "value": 3928}
       {"name": "CommunityStructure", "value": 3812},
       {"name": "HierarchicalCluster", "value": 6714},
       {"name": "MergeEdge", "value": 743}
