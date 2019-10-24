@@ -2,7 +2,7 @@
  "name": "flare",
  "children": [
   {
-   "name": "anayltics",
+   "name": "anayltics1",
    "children": [
     {
      "name": "cluster",
