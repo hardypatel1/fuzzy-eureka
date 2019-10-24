@@ -32,12 +32,13 @@
    ]
   },
   {
-   "name": "thai",
+   "name": "asian",
    "children": [
-    {"name": "Easing", "value": 17010},
+    {"name": "thai", "value": 17010},
+    {"name": "taco", "value": 17011},
     {"name": "FunctionSequence", "value": 5842},
     {
-     "name": "interpolate",
+     "name": "chinese",
      "children": [
       {"name": "ArrayInterpolator", "value": 1983},
       {"name": "ColorInterpolator", "value": 2047},
