@@ -45,20 +45,84 @@
     {
    "name": "Toronto ON",
    "children": [
-    {"name": "thai", "value": 17010},
-    {"name": "indian", "value": 17011},
-    {"name": "japanese", "value": 17012},
-    {"name": "korean", "value": 17010},
-    {"name": "vietnamese", "value": 17010}
-   ]
-  },
+  {                                    
+     "name": "Fast Food",
+     "children": [
+      {"name": "insertvalue", "value": 3938}
+     ]
+    },
   {
-   "name": "Las Vegas NV",
+   "name": "Pizza",
    "children": [
-    {"name": " insertvaluehere" , "value" : 8822}
+    {"name": "insertvalue", "value": 3938}
     ]
   },
+   {
+   "name": "Mexican",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
+    ]
+  },
+   {
+   "name": "Chinese",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
+    ]
+  },
+   {
+   "name": "Deli",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
+    ]
+  },
+   {
+   "name": "Burger",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
+   ]
+  }
+]
+ },
+   "name": "Las Vegas NV",
+   "children": [
+  {                                    
+     "name": "Fast Food",
+     "children": [
+      {"name": "insertvalue", "value": 3938}
+     ]
+    },
   {
+   "name": "Pizza",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
+    ]
+  },
+   {
+   "name": "Mexican",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
+    ]
+  },
+   {
+   "name": "Chinese",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
+    ]
+  },
+   {
+   "name": "Deli",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
+    ]
+  },
+   {
+   "name": "Burger",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
+   ]
+  }
+]
+ },
    "name": "Cleveland OH",
    "children": [
     {"name": " insertvaluehere" , "value" : 8812}
