@@ -2,10 +2,13 @@
  "name": "flare",
  "children": [
   {
-   "name": "italian",
+  
+   
+
+   "name": "Phoenix AZ",
    "children": [
     {
-     "name": "pizza",
+     "name": "insert number of rest",
      "children": [
       {"name": "pizza hut", "value": 3938},
       {"name": "dominos", "value": 3938},
@@ -34,7 +37,7 @@
    ]
   },
   {
-   "name": "asian",
+   "name": "Las Vegas NV",
    "children": [
     {"name": "thai", "value": 17010},
     {"name": "indian", "value": 17011},
@@ -42,6 +45,8 @@
     {"name": "korean", "value": 17010},
     {"name": "vietnamese", "value": 17010}
    ]
+   
+  
   }
  ]
 }
