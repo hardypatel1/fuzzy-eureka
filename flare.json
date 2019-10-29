@@ -38,11 +38,9 @@
    "name": "Burger",
    "children": [
     {"name": "insertvalue", "value": 3938}
-    ]
-   }
-    ]
+   ]
   },
-    {
+  {
      "name": "graph",
      "children": [
       {"name": "BetweennessCentrality", "value": 3534},
