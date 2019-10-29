@@ -2,7 +2,7 @@
  "name": "flare",
  "children": [
   {
-   "name": "Phoenix AZ",
+   "name": "italian",
    "children": [
     {
      "name": "pizza",
@@ -12,6 +12,7 @@
       {"name": "papa johns", "value": 3999},
       {"name": "cici", "value": 3812},
       {"name": "little ceasers", "value": 6714}
+      
      ]
     },
     {
@@ -33,10 +34,13 @@
    ]
   },
   {
-   "name": "Las Vegas NV",
+   "name": "asian",
    "children": [
-    {"name": "thai", "value": 17011},
-    
+    {"name": "thai", "value": 17010},
+    {"name": "indian", "value": 17011},
+    {"name": "japanese", "value": 17012},
+    {"name": "korean", "value": 17010},
+    {"name": "vietnamese", "value": 17010}
    ]
   }
  ]
