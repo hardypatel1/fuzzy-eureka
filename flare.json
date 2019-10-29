@@ -2,10 +2,10 @@
  "name": "flare",
  "children": [
   {
-   "name": "Phoenix AZ",
+   "name": "italian",
    "children": [
     {
-     "name": "insert number of rest",
+     "name": "pizza",
      "children": [
       {"name": "pizza hut", "value": 3938},
       {"name": "dominos", "value": 3938},
@@ -34,7 +34,7 @@
    ]
   },
   {
-   "name": "Las Vegas NV",
+   "name": "asian",
    "children": [
     {"name": "thai", "value": 17010},
     {"name": "indian", "value": 17011},
@@ -43,23 +43,5 @@
     {"name": "vietnamese", "value": 17010}
    ]
   }
-    {
-   "name": "Toronto ON",
-   "children": [
-    {"name": "insert number of rest", "value": 17010},
-   ]
-  }
-     {
-   "name": "Cleveland OH",
-   "children": [
-    {"name": "insert number of rest", "value": 17010},
-   ]
-  }
-   {
-   "name": "Pittsburgh PA",
-   "children": [
-    {"name": "insert number of rest", "value": 17010},
-   ]
-  }  
  ]
 }
