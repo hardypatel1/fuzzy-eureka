@@ -34,7 +34,7 @@
    ]
   },
   {
-   "name": "asian",
+   "name": "Toronto ON",
    "children": [
     {"name": "thai", "value": 17010},
     {"name": "indian", "value": 17011},
@@ -44,9 +44,27 @@
    ]
   },
   {
-   "name": "asian",
+   "name": "Las Vegas NV",
    "children": [
     {"name": " insertvaluehere" , "value" : 8822}
+    ]
+  },
+  {
+   "name": "Cleveland OH",
+   "children": [
+    {"name": " insertvaluehere" , "value" : 8812}
+    ]
+  },
+   {
+   "name": "Pittsburgh PA",
+   "children": [
+    {"name": " insertvaluehere" , "value" : 8812}
+    ]
+  },
+    {
+   "name": "Charlotte NC",
+   "children": [
+    {"name": " insertvaluehere" , "value" : 8813}
     ]
   }
  ]
