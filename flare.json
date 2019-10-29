@@ -42,7 +42,7 @@
   }
 ]
  },
-    {
+  {
    "name": "Toronto ON",
    "children": [
   {                                    
@@ -127,20 +127,125 @@
   {
    "name": "Cleveland OH",
    "children": [
-    {"name": " insertvaluehere" , "value" : 8812}
+    {                                    
+     "name": "Fast Food",
+     "children": [
+      {"name": "insertvalue", "value": 3938}
+     ]
+    },
+  {
+   "name": "Pizza",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
     ]
   },
    {
-   "name": "Pittsburgh PA",
+   "name": "Mexican",
    "children": [
-    {"name": " insertvaluehere" , "value" : 8812}
+    {"name": "insertvalue", "value": 3938}
     ]
   },
-    {
+   {
+   "name": "Chinese",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
+    ]
+  },
+   {
+   "name": "Deli",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
+    ]
+  },
+   {
+   "name": "Burger",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
+   ]
+  }
+]
+ },
+  {
+   "name": "Pittsburgh PA",
+   "children": [
+   {                                    
+     "name": "Fast Food",
+     "children": [
+      {"name": "insertvalue", "value": 3938}
+     ]
+    },
+  {
+   "name": "Pizza",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
+    ]
+  },
+   {
+   "name": "Mexican",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
+    ]
+  },
+   {
+   "name": "Chinese",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
+    ]
+  },
+   {
+   "name": "Deli",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
+    ]
+  },
+   {
+   "name": "Burger",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
+   ]
+  }
+]
+ },
+  {
    "name": "Charlotte NC",
    "children": [
-    {"name": " insertvaluehere" , "value" : 8813}
+    {                                    
+     "name": "Fast Food",
+     "children": [
+      {"name": "insertvalue", "value": 3938}
+     ]
+    },
+  {
+   "name": "Pizza",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
     ]
+  },
+   {
+   "name": "Mexican",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
+    ]
+  },
+   {
+   "name": "Chinese",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
+    ]
+  },
+   {
+   "name": "Deli",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
+    ]
+  },
+   {
+   "name": "Burger",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
+   ]
   }
+]
+ }
  ]
 }
