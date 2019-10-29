@@ -4,17 +4,42 @@
   {
    "name": "Phoneix AZ",
    "children": [
-    {
-     "name": "pizza",
+    {                                     Pizza, Mexican, Chinese, Deli, Burger
+     "name": "Fast Food",
      "children": [
-      {"name": "pizza hut", "value": 3938},
-      {"name": "dominos", "value": 3938},
-      {"name": "papa johns", "value": 3999},
-      {"name": "cici", "value": 3812},
-      {"name": "little ceasers", "value": 6714}
-      
+      {"name": "insertvalue", "value": 3938}
      ]
     },
+  {
+   "name": "Pizza",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
+    ]
+  },
+   {
+   "name": "Mexican",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
+    ]
+  },
+   {
+   "name": "Chinese",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
+    ]
+  },
+   {
+   "name": "Deli",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
+    ]
+  },
+   {
+   "name": "Burger",
+   "children": [
+    {"name": "insertvalue", "value": 3938}
+    ]
+  }
     {
      "name": "graph",
      "children": [
