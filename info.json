@@ -1,0 +1,1156 @@
+[
+  {
+    "name": "ON", 
+    "children": [
+      {
+        "name": "Deli", 
+        "children": [
+          {
+            "name": "1.5", 
+            "children": [
+              {
+                "name": "Harvey's Restaurant", 
+                "children": [
+                  {
+                    "name": "3"
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "2.0", 
+            "children": [
+              {
+                "name": "Sammy's BBQ & Deli", 
+                "children": [
+                  {
+                    "name": "3"
+                  }
+                ]
+              }, 
+              {
+                "name": "Pizza Hut", 
+                "children": [
+                  {
+                    "name": "13"
+                  }
+                ]
+              }, 
+              {
+                "name": "Subway", 
+                "children": [
+                  {
+                    "name": "5"
+                  }, 
+                  {
+                    "name": "4"
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "1.0"
+          }
+        ]
+      }, 
+      {
+        "name": "Burgers", 
+        "children": [
+          {
+            "name": "2.0", 
+            "children": [
+              {
+                "name": "Lick's Homeburgers & Ice Cream", 
+                "children": [
+                  {
+                    "name": "4"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Mexican", 
+        "children": [
+          {
+            "name": "2.0", 
+            "children": [
+              {
+                "name": "Burrito Zone - Ajax", 
+                "children": [
+                  {
+                    "name": "4"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Chinese", 
+        "children": [
+          {
+            "name": "1.5", 
+            "children": [
+              {
+                "name": "Beef Noodle King", 
+                "children": [
+                  {
+                    "name": "15"
+                  }
+                ]
+              }, 
+              {
+                "name": "Ho-Lee-Chow", 
+                "children": [
+                  {
+                    "name": "3"
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "2.0", 
+            "children": [
+              {
+                "name": "Mirage Noodle Restaurant", 
+                "children": [
+                  {
+                    "name": "9"
+                  }
+                ]
+              }, 
+              {
+                "name": "Congee Royal", 
+                "children": [
+                  {
+                    "name": "5"
+                  }
+                ]
+              }, 
+              {
+                "name": "Sichuan Ren", 
+                "children": [
+                  {
+                    "name": "15"
+                  }
+                ]
+              }, 
+              {
+                "name": "Lanzhou Hand Pulled Noodle", 
+                "children": [
+                  {
+                    "name": "10"
+                  }
+                ]
+              }, 
+              {
+                "name": "Lucky Season Hot Pot", 
+                "children": [
+                  {
+                    "name": "14"
+                  }
+                ]
+              }, 
+              {
+                "name": "Little Honey Tea Shop", 
+                "children": [
+                  {
+                    "name": "8"
+                  }
+                ]
+              }, 
+              {
+                "name": "Thai Delight Restaurant", 
+                "children": [
+                  {
+                    "name": "6"
+                  }
+                ]
+              }, 
+              {
+                "name": "Red Lotus", 
+                "children": [
+                  {
+                    "name": "4"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Pizza", 
+        "children": [
+          {
+            "name": "1.5"
+          }, 
+          {
+            "name": "2.0", 
+            "children": [
+              {
+                "name": "Triple Crown Bar & Grill", 
+                "children": [
+                  {
+                    "name": "15"
+                  }
+                ]
+              }, 
+              {
+                "name": "Double Double Pizza Chicken", 
+                "children": [
+                  {
+                    "name": "9"
+                  }
+                ]
+              }, 
+              {
+                "name": "Pizza Pizza", 
+                "children": [
+                  {
+                    "name": "8"
+                  }
+                ]
+              }, 
+              {
+                "name": "Panzerotto Pizza", 
+                "children": [
+                  {
+                    "name": "5"
+                  }
+                ]
+              }, 
+              {
+                "name": "Crupis Pizza", 
+                "children": [
+                  {
+                    "name": "4"
+                  }
+                ]
+              }, 
+              {
+                "name": "Panzerotto & Pizza 2 For 1", 
+                "children": [
+                  {
+                    "name": "3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "OH", 
+    "children": [
+      {
+        "name": "Deli", 
+        "children": [
+          {
+            "name": "1.5"
+          }, 
+          {
+            "name": "2.0"
+          }, 
+          {
+            "name": "1.0", 
+            "children": [
+              {
+                "name": "McDonald's", 
+                "children": [
+                  {
+                    "name": "4"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Burgers", 
+        "children": [
+          {
+            "name": "2.0"
+          }
+        ]
+      }, 
+      {
+        "name": "Mexican", 
+        "children": [
+          {
+            "name": "2.0", 
+            "children": [
+              {
+                "name": "Luchita's Mexican Restaurant", 
+                "children": [
+                  {
+                    "name": "3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Chinese", 
+        "children": [
+          {
+            "name": "2.0"
+          }
+        ]
+      }, 
+      {
+        "name": "Pizza", 
+        "children": [
+          {
+            "name": "1.5", 
+            "children": [
+              {
+                "name": "Geppetto's Pizza & Ribs", 
+                "children": [
+                  {
+                    "name": "3"
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "2.0", 
+            "children": [
+              {
+                "name": "Westshore Pizza & Cheesesteaks", 
+                "children": [
+                  {
+                    "name": "4"
+                  }
+                ]
+              }, 
+              {
+                "name": "Pizza Pan", 
+                "children": [
+                  {
+                    "name": "5"
+                  }
+                ]
+              }, 
+              {
+                "name": "Papa John's Pizza", 
+                "children": [
+                  {
+                    "name": "3"
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "1.0"
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "NC", 
+    "children": [
+      {
+        "name": "Deli", 
+        "children": [
+          {
+            "name": "1.5", 
+            "children": [
+              {
+                "name": "Food Lion Inc", 
+                "children": [
+                  {
+                    "name": "3"
+                  }
+                ]
+              }, 
+              {
+                "name": "Wendy's", 
+                "children": [
+                  {
+                    "name": "7"
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "2.0", 
+            "children": [
+              {
+                "name": "Subway", 
+                "children": [
+                  {
+                    "name": "3"
+                  }
+                ]
+              }, 
+              {
+                "name": "Firehouse Subs", 
+                "children": [
+                  {
+                    "name": "9"
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "1.0", 
+            "children": [
+              {
+                "name": "Quiznos", 
+                "children": [
+                  {
+                    "name": "3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Burgers", 
+        "children": [
+          {
+            "name": "1.5"
+          }, 
+          {
+            "name": "2.0"
+          }
+        ]
+      }, 
+      {
+        "name": "Mexican", 
+        "children": [
+          {
+            "name": "2.0"
+          }
+        ]
+      }, 
+      {
+        "name": "Chinese", 
+        "children": [
+          {
+            "name": "2.0", 
+            "children": [
+              {
+                "name": "NY Hibachi Buffet", 
+                "children": [
+                  {
+                    "name": "8"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Pizza", 
+        "children": [
+          {
+            "name": "2.0", 
+            "children": [
+              {
+                "name": "Phil & Tony's Pizza Brick Oven Pizza", 
+                "children": [
+                  {
+                    "name": "5"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "state", 
+    "children": [
+      {
+        "name": "type", 
+        "children": [
+          {
+            "name": "star", 
+            "children": [
+              {
+                "name": "name", 
+                "children": [
+                  {
+                    "name": "review_count"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "PA", 
+    "children": [
+      {
+        "name": "Deli", 
+        "children": [
+          {
+            "name": "1.5", 
+            "children": [
+              {
+                "name": "Subway", 
+                "children": [
+                  {
+                    "name": "3"
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "2.0", 
+            "children": [
+              {
+                "name": "Long John Silver's", 
+                "children": [
+                  {
+                    "name": "4"
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "1.0"
+          }
+        ]
+      }, 
+      {
+        "name": "Burgers", 
+        "children": [
+          {
+            "name": "2.0", 
+            "children": [
+              {
+                "name": "Fuddruckers", 
+                "children": [
+                  {
+                    "name": "9"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Chinese", 
+        "children": [
+          {
+            "name": "1.5"
+          }, 
+          {
+            "name": "2.0"
+          }
+        ]
+      }, 
+      {
+        "name": "Pizza", 
+        "children": [
+          {
+            "name": "1.5"
+          }, 
+          {
+            "name": "2.0", 
+            "children": [
+              {
+                "name": "Disanto Pizza", 
+                "children": [
+                  {
+                    "name": "9"
+                  }
+                ]
+              }, 
+              {
+                "name": "Pizza Hut", 
+                "children": [
+                  {
+                    "name": "3"
+                  }
+                ]
+              }, 
+              {
+                "name": "Little Caesars", 
+                "children": [
+                  {
+                    "name": "11"
+                  }
+                ]
+              }, 
+              {
+                "name": "Italian Village Pizza", 
+                "children": [
+                  {
+                    "name": "8"
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "1.0", 
+            "children": [
+              {
+                "name": "Authentic Pizzeria & Deli", 
+                "children": [
+                  {
+                    "name": "3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "AZ", 
+    "children": [
+      {
+        "name": "Deli", 
+        "children": [
+          {
+            "name": "1.5", 
+            "children": [
+              {
+                "name": "Blimpie", 
+                "children": [
+                  {
+                    "name": "3"
+                  }
+                ]
+              }, 
+              {
+                "name": "Quiznos", 
+                "children": [
+                  {
+                    "name": "4"
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "2.0", 
+            "children": [
+              {
+                "name": "Waffle House", 
+                "children": [
+                  {
+                    "name": "4"
+                  }
+                ]
+              }, 
+              {
+                "name": "Church's Chicken", 
+                "children": [
+                  {
+                    "name": "3"
+                  }
+                ]
+              }, 
+              {
+                "name": "Schlotzsky's", 
+                "children": [
+                  {
+                    "name": "10"
+                  }
+                ]
+              }, 
+              {
+                "name": "McDonald's", 
+                "children": [
+                  {
+                    "name": "9"
+                  }
+                ]
+              }, 
+              {
+                "name": "Jack in the Box", 
+                "children": [
+                  {
+                    "name": "5"
+                  }
+                ]
+              }, 
+              {
+                "name": "McDonalds", 
+                "children": [
+                  {
+                    "name": "6"
+                  }
+                ]
+              }, 
+              {
+                "name": "Burger King", 
+                "children": [
+                  {
+                    "name": "13"
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "1.0", 
+            "children": [
+              {
+                "name": "Subway", 
+                "children": [
+                  {
+                    "name": "8"
+                  }
+                ]
+              }, 
+              {
+                "name": "Long John Silvers", 
+                "children": [
+                  {
+                    "name": "3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Burgers", 
+        "children": [
+          {
+            "name": "1.5"
+          }, 
+          {
+            "name": "2.0", 
+            "children": [
+              {
+                "name": "Wendy's", 
+                "children": [
+                  {
+                    "name": "3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Mexican", 
+        "children": [
+          {
+            "name": "1.5", 
+            "children": [
+              {
+                "name": "Pachuca - A Healthy Mexican Grill", 
+                "children": [
+                  {
+                    "name": "3"
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "2.0", 
+            "children": [
+              {
+                "name": "Dos Diablos", 
+                "children": [
+                  {
+                    "name": "14"
+                  }
+                ]
+              }, 
+              {
+                "name": "Hal O. Peno's Mexican Cafe", 
+                "children": [
+                  {
+                    "name": "4"
+                  }
+                ]
+              }, 
+              {
+                "name": "Ketzal Mexican Grill", 
+                "children": [
+                  {
+                    "name": "13"
+                  }
+                ]
+              }, 
+              {
+                "name": "Taco Bell", 
+                "children": [
+                  {
+                    "name": "3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Chinese", 
+        "children": [
+          {
+            "name": "1.5", 
+            "children": [
+              {
+                "name": "Panda Express", 
+                "children": [
+                  {
+                    "name": "5"
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "2.0", 
+            "children": [
+              {
+                "name": "Pick Up Stix", 
+                "children": [
+                  {
+                    "name": "4"
+                  }
+                ]
+              }, 
+              {
+                "name": "Panda Express", 
+                "children": [
+                  {
+                    "name": "3"
+                  }
+                ]
+              }, 
+              {
+                "name": "Wok n Stix", 
+                "children": [
+                  {
+                    "name": "7"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Pizza", 
+        "children": [
+          {
+            "name": "1.5", 
+            "children": [
+              {
+                "name": "Mozzarelis Pizza & Wings", 
+                "children": [
+                  {
+                    "name": "3"
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "2.0", 
+            "children": [
+              {
+                "name": "Rosati's Pizza", 
+                "children": [
+                  {
+                    "name": "9"
+                  }
+                ]
+              }, 
+              {
+                "name": "Hungry Howie's Pizza", 
+                "children": [
+                  {
+                    "name": "18"
+                  }
+                ]
+              }, 
+              {
+                "name": "Papa John's Pizza", 
+                "children": [
+                  {
+                    "name": "5"
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "1.0"
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "NV", 
+    "children": [
+      {
+        "name": "Deli", 
+        "children": [
+          {
+            "name": "1.5", 
+            "children": [
+              {
+                "name": "Long John Silver's", 
+                "children": [
+                  {
+                    "name": "11"
+                  }
+                ]
+              }, 
+              {
+                "name": "Bob's Big Boy", 
+                "children": [
+                  {
+                    "name": "6"
+                  }
+                ]
+              }, 
+              {
+                "name": "KFC", 
+                "children": [
+                  {
+                    "name": "3"
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "2.0", 
+            "children": [
+              {
+                "name": "Quickee Burgers", 
+                "children": [
+                  {
+                    "name": "16"
+                  }
+                ]
+              }, 
+              {
+                "name": "Church's Chicken", 
+                "children": [
+                  {
+                    "name": "14"
+                  }
+                ]
+              }, 
+              {
+                "name": "McDonald's", 
+                "children": [
+                  {
+                    "name": "6"
+                  }
+                ]
+              }, 
+              {
+                "name": "Wendy's", 
+                "children": [
+                  {
+                    "name": "4"
+                  }
+                ]
+              }, 
+              {
+                "name": "Quiznos", 
+                "children": [
+                  {
+                    "name": "5"
+                  }
+                ]
+              }, 
+              {
+                "name": "Popeyes Louisiana Kitchen", 
+                "children": [
+                  {
+                    "name": "18"
+                  }
+                ]
+              }, 
+              {
+                "name": "Subway", 
+                "children": [
+                  {
+                    "name": "10"
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "1.0", 
+            "children": [
+              {
+                "name": "Wienerschnitzel", 
+                "children": [
+                  {
+                    "name": "3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Burgers", 
+        "children": [
+          {
+            "name": "1.5"
+          }
+        ]
+      }, 
+      {
+        "name": "Mexican", 
+        "children": [
+          {
+            "name": "1.5"
+          }, 
+          {
+            "name": "2.0", 
+            "children": [
+              {
+                "name": "Mariana's Cantina", 
+                "children": [
+                  {
+                    "name": "3"
+                  }
+                ]
+              }, 
+              {
+                "name": "Taco Bell", 
+                "children": [
+                  {
+                    "name": "10"
+                  }, 
+                  {
+                    "name": "4"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Chinese", 
+        "children": [
+          {
+            "name": "1.5"
+          }, 
+          {
+            "name": "2.0", 
+            "children": [
+              {
+                "name": "Haiku & Thai", 
+                "children": [
+                  {
+                    "name": "4"
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "1.0"
+          }
+        ]
+      }, 
+      {
+        "name": "Pizza", 
+        "children": [
+          {
+            "name": "1.5"
+          }, 
+          {
+            "name": "2.0", 
+            "children": [
+              {
+                "name": "Johnny's Pizzeria", 
+                "children": [
+                  {
+                    "name": "4"
+                  }
+                ]
+              }, 
+              {
+                "name": "Pizza Hut", 
+                "children": [
+                  {
+                    "name": "7"
+                  }
+                ]
+              }, 
+              {
+                "name": "Artisan Fine Dining Room", 
+                "children": [
+                  {
+                    "name": "3"
+                  }
+                ]
+              }, 
+              {
+                "name": "The Pizza Kings", 
+                "children": [
+                  {
+                    "name": "10"
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "1.0", 
+            "children": [
+              {
+                "name": "Godfathers Pizza", 
+                "children": [
+                  {
+                    "name": "5"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
