@@ -1,4 +1,6 @@
-[
+{
+ "name": "flare",
+ "children":[
   {
     "name": "ON", 
     "children": [
@@ -1153,4 +1155,4 @@
     ]
   }
 ]
-
+}
