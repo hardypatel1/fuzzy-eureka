@@ -1,6 +1,4 @@
-{
- "name": "flare",
- "children":[
+[
   {
     "name": "ON", 
     "children": [
@@ -11,7 +9,7 @@
             "name": "1.5", 
             "children": [
               {
-                "name": "Harvey's Restaurant", 
+                "name": "Harvey's Restaurant",
                 "children": [
                   {
                     "name": "3"
