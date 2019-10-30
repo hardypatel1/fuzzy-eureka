@@ -14,7 +14,7 @@
                 "name": "Harvey's Restaurant",
                 "children": [
                   {
-                    "name": "3"
+                    "name": "3","value" : 3999
                   }
                 ]
               }
