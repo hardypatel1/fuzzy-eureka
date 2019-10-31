@@ -27,7 +27,7 @@
                 "name": "Sammy's BBQ & Deli", 
                 "children": [
                   {
-                    "name": "3"
+                    "name": "3","value" : 3999
                   }
                 ]
               }, 
@@ -35,7 +35,7 @@
                 "name": "Pizza Hut", 
                 "children": [
                   {
-                    "name": "13"
+                    "name": "13","value" : 3999
                   }
                 ]
               }, 
@@ -43,10 +43,10 @@
                 "name": "Subway", 
                 "children": [
                   {
-                    "name": "5"
+                    "name": "5","value" : 3999
                   }, 
                   {
-                    "name": "4"
+                    "name": "4","value" : 3999
                   }
                 ]
               }
